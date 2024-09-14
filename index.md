@@ -28,7 +28,7 @@ I then trained a convolutional neural network (CNN) to predict the aim points fr
 ---
 ## Machine Learning 
 ### Regression Modeling for Red Wine Quality Prediction
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([https://github.com/Sooihk/MSDS-UT-AUSTIN/blob/main/Deep%20Learning/FP_DL.pdf](https://github.com/Sooihk/Machine-Learning-Final-Red-Wine-Quality-Prediction))
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Sooihk/Machine-Learning-Final-Red-Wine-Quality-Prediction)
 
 [![](https://img.shields.io/badge/R-navy?logo=R)](#)
 
@@ -36,14 +36,9 @@ In this project, I built and evaluated multiple machine learning models to predi
 <img src="images/MixCollage2.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+## Exploratory Data Analysis  
+### Visualizing when and where most robberies occur in the city of Chicago
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Sooihk/UCLA-EDA-Chicago-Crime-Dataset)
 
 ---
 
