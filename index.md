@@ -10,7 +10,7 @@
 
 Developed and deployed  a state-based agent designed to excel in the 2v2 ice hockey game within SuperTuxKart, employing expert observation, imitation learning, and the DAgger algorithm for iterative refinement. The project focuses on using a state-based approach rather than image-based inputs, leveraging features from the game environment to enhance the agent's performance in navigating to the puck and scoring goals. Despite challenges with over-learning specific behaviors, the model demonstrates improvements through reinforcement learning techniques and neural network optimization.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/MixCollage1.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
