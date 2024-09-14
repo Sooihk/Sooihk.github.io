@@ -32,6 +32,7 @@ I then trained a convolutional neural network (CNN) to predict the aim points fr
 
 [![](https://img.shields.io/badge/R-navy?logo=R)](#)
 
+In this project, I built and evaluated multiple machine learning models to predict the quality of red wine using physicochemical properties. After preprocessing the data and performing exploratory data analysis, I applied various regression techniques: Multiple Linear Regression, LASSO Regression, Partial Least Squares Regression, and Random Forest. The Random Forest model performed the best, achieving the highest accuracy (67%) and lowest error metrics, making it the most reliable for predicting wine quality.
 <img src="images/MixCollage2.jpg?raw=true"/>
 
 ---
