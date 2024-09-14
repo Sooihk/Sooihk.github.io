@@ -29,7 +29,7 @@ I then trained a convolutional neural network (CNN) to predict the aim points fr
 ## Machine Learning 
 ### Regression Modeling for Red Wine Quality Prediction
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#)
+[![](https://img.shields.io/badge/R-navy?logo=R)](#)
 
 <img src="images/MixCollage2.jpg?raw=true"/>
 
