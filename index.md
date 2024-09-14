@@ -15,8 +15,12 @@ I focused on using a state-based approach rather than image-based inputs, levera
 <img src="images/MixCollage1.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Deep Learning 
+### SuperTuxKart CNN vision-based driving
+
+I developed a low-level controller in SuperTuxKart to steer a kart by computing optimal actions such as steering and acceleration based on ground truth aim points. After tuning the controller's hyperparameters to efficiently navigate various tracks, I used it to collect a training dataset of images and aim points. I then trained a convolutional neural network (CNN) to predict the aim points from images, enabling vision-based driving where the CNN-driven kart could autonomously navigate tracks by mapping image inputs to driving actions.
+
+<img src="images/cnn image driver.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
