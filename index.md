@@ -1,10 +1,13 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Category Name 1 
+## Deep Learning 
+### SuperTuxKart Ice Hockey State Based Agent
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Sooihk/MSDS-UT-AUSTIN/blob/main/Deep%20Learning/FP_DL.pdf))
 
-[Project 1 Title](/sample_page)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/NumPy-white?logo=NumPy)](#)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
