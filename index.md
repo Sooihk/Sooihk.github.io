@@ -39,6 +39,7 @@ In this project, I built and evaluated multiple machine learning models to predi
 ## Exploratory Data Analysis  
 ### Visualizing when and where most robberies occur in the city of Chicago
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Sooihk/UCLA-EDA-Chicago-Crime-Dataset)
+
 [![](https://img.shields.io/badge/R-steelblue?logo=R)](#)[![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
 
 In this project, I analyzed the Chicago Police Department Crime Database to visualize when and where most robberies occured in the city. Subselecting the dataset from 2001 to 2021, I handeld missing values and outliers, performed feature engineering, and visualized key patterns. 
