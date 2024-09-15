@@ -41,13 +41,27 @@ In this project, I built and evaluated multiple machine learning models to predi
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Sooihk/UCLA-EDA-Chicago-Crime-Dataset)
 [![](https://img.shields.io/badge/R-steelblue?logo=R)](#)[![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
 
+In this project, I analyzed the Chicago Police Department Crime Database to visualize when and where most robberies occured in the city. Subselecting the dataset from 2001 to 2021, I handeld missing values and outliers, performed feature engineering, and visualized key patterns. 
 
+I identified that most robberies occur between July and October, peaking between 6 PM and 11 PM on weekdays and 9 PM to 3 AM on weekends. Geospatial analysis revealed that the majority of robberies happen on the street, with the highest concentration of incidents in the Austin and South Shore community areas.
+
+<img src="images/MixCollage3.jpg?raw=true"/>
+---
+## Inorganic Chemistry   
+###
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Sooihk/Redox-Switchable-Y-In-Complexes/tree/main)
+Investigated the activities of redox-switchable yttrium and indium alkoxide
+complexes during ring-opening polymerization of cyclic esters.
+- Synthesized ferrocene-based Schiff ligands in anaerobic glovebox
+  and aerobic conditions to support yttrium and indium complexes.
+- Characterization of purified yttrium and indium complexes.
+- Performed ring-opening polymerization of various cyclic esters
+  with the metal complexes in their reduced and oxidized states to
+  observe their selectively towards the monomers.
+
+---
 
 ---
 
 
 
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
