@@ -61,6 +61,8 @@ complexes during ring-opening polymerization of cyclic esters.
 - Performed ring-opening polymerization of various cyclic esters
   with the metal complexes in their reduced and oxidized states to
   observe their selectively towards the monomers.
+<img src="images/chemistry.png?raw=true"/>
+
 
 ---
 
