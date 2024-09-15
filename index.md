@@ -48,8 +48,9 @@ I identified that most robberies occur between July and October, peaking between
 <img src="images/MixCollage3.jpg?raw=true"/>
 ---
 ## Inorganic Chemistry   
-###
+### Redox Control of a Ring-Opening Polymerization Yttrium and Indium Catalyst
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Sooihk/Redox-Switchable-Y-In-Complexes/tree/main)
+
 Investigated the activities of redox-switchable yttrium and indium alkoxide
 complexes during ring-opening polymerization of cyclic esters.
 - Synthesized ferrocene-based Schiff ligands in anaerobic glovebox
