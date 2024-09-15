@@ -46,7 +46,9 @@ In this project, I analyzed the Chicago Police Department Crime Database to visu
 I identified that most robberies occur between July and October, peaking between 6 PM and 11 PM on weekdays and 9 PM to 3 AM on weekends. Geospatial analysis revealed that the majority of robberies happen on the street, with the highest concentration of incidents in the Austin and South Shore community areas.
 
 <img src="images/MixCollage3.jpg?raw=true"/>
+
 ---
+
 ## Inorganic Chemistry   
 ### Redox Control of a Ring-Opening Polymerization Yttrium and Indium Catalyst
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Sooihk/Redox-Switchable-Y-In-Complexes/tree/main)
