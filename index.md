@@ -47,8 +47,9 @@ In this project, I analyzed the Chicago Police Department Crime Database to visu
 I identified that most robberies occur between July and October, peaking between 6 PM and 11 PM on weekdays and 9 PM to 3 AM on weekends. Geospatial analysis revealed that the majority of robberies happen on the street, with the highest concentration of incidents in the Austin and South Shore community areas.
 
 <img src="images/MixCollage3.jpg?raw=true"/>
+
 ---
-## C++ 
+## C
 ### TunnelMan 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Sooihk/TunnelMan)
@@ -57,7 +58,6 @@ I identified that most robberies occur between July and October, peaking between
 TunnelMan video game created in C++. The player has to dig through the dirts to collect as many oils as it can, while avoiding protesters, in order to complete each level. To interrupt player's mission, there will be protesters who will follow user and shout at him until user's health points drop zero (in which case player loses a life).
 
 <img src="images/tunnel man.png?raw=true"/>
-
 ---
 ## Inorganic Chemistry   
 ### Redox Control of a Ring-Opening Polymerization Yttrium and Indium Catalyst
